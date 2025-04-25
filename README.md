@@ -1,12 +1,14 @@
 # Poor mans ai backend
 
-This repo documents a minimal setup to host chat-gpt-like app using home hardware, accessible externally via web.
+This repo documents a minimal setup to host chat-gpt-like app using home hardware, built to be accessible externally via web for personal use.
 
 It uses LangChain as base boilerplate for MCP extendability and refined workflow building.
 
 It uses ChainLit (python) to host web ui and route user prompts to LangChain-built workflows.
 
 Chat history persistance has been added later to use externally hosted postgres server.
+
+![setup.puml.svg](setup.puml.svg)
 
 ## Running
 
