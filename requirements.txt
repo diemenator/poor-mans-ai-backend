@@ -1,0 +1,7 @@
+langchain-core
+langchain
+langchain-community
+langchain-postgres
+psycopg
+chainlit
+starlette
