@@ -1,6 +1,6 @@
 # Poor mans ai backend
 
-This repo documents a minimal setup to host chat-gpt-like app using home hardware, built to be accessible externally via web for personal use.
+This repo documents a minimal setup to host chat-gpt-like app using home hardware, built to be [accessible externally via web](https://github.com/diemenator/auth0-gateway-on-home-nas) for personal use.
 
 It uses LangChain as base boilerplate for MCP extendability and refined workflow building.
 
