@@ -27,7 +27,7 @@ python -m pip install -r ./requirements.txt
 ```
 
 ```bash
-# chainlit will run uvicorn asgi and load main.py for bindings
+# chainlit will run its asgi runtime and load main.py for bindings
 chainlit run main.py --port 8080 --host 0.0.0.0
 ```
 
