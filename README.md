@@ -6,7 +6,7 @@ It uses LangChain as base boilerplate for MCP extendability and refined workflow
 
 It uses ChainLit (python) to host web ui and route user prompts to LangChain-built workflows.
 
-Chat history persistance has been added later to use externally hosted postgres server.
+Chat history persistence has been added later to use externally hosted postgresql server.
 
 ![setup.puml.svg](setup.puml.svg)
 
